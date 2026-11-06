@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Abhinav Srivastava</title>
+  <desc id="desc">Full-stack development. Frontend expertise. React, Redux, Node.js, SQL.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101C30"/><stop offset="1" stop-color="#102B36"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="55" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61E1CE"/><stop offset="1" stop-color="#76A8FF"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#A0D6DF" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+  <rect x="52" y="45" width="36" height="4" rx="2" fill="#61E1CE"/>
+  <text x="101" y="52" fill="#A7C0CE" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.8">BUILDING SINCE 2018</text>
+  <text x="50" y="119" fill="#F4F8FC" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="700" letter-spacing="-1.6">Abhinav Srivastava</text>
+  <text x="52" y="169" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600">Full-stack development.</text>
+  <text x="52" y="205" fill="#F4F8FC" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600">Frontend expertise.</text>
+  <text x="53" y="260" fill="#B8CCD7" font-family="Arial, Helvetica, sans-serif" font-size="16">REACT</text>
+  <circle cx="124" cy="255" r="2" fill="#61E1CE"/>
+  <text x="140" y="260" fill="#B8CCD7" font-family="Arial, Helvetica, sans-serif" font-size="16">REDUX</text>
+  <circle cx="216" cy="255" r="2" fill="#61E1CE"/>
+  <text x="232" y="260" fill="#B8CCD7" font-family="Arial, Helvetica, sans-serif" font-size="16">NODE.JS</text>
+  <circle cx="326" cy="255" r="2" fill="#61E1CE"/>
+  <text x="342" y="260" fill="#B8CCD7" font-family="Arial, Helvetica, sans-serif" font-size="16">SQL</text>
+  <g transform="translate(790 54)">
+    <rect width="350" height="232" rx="14" fill="#122535" stroke="#3B586A"/>
+    <path d="M0 42H350" stroke="#3B586A"/>
+    <circle cx="22" cy="21" r="4" fill="#61E1CE"/>
+    <circle cx="38" cy="21" r="4" fill="#76A8FF"/>
+    <circle cx="54" cy="21" r="4" fill="#637C91"/>
+    <text x="171" y="26" fill="#9BB5C8" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.8">IDEA TO DELIVERY</text>
+    <rect x="26" y="67" width="86" height="51" rx="7" fill="#1B3C47" stroke="#61E1CE" stroke-opacity=".6"/>
+    <text x="69" y="98" text-anchor="middle" fill="#B4F4E7" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">UI</text>
+    <path d="M112 92H134M130 88L134 92L130 96" stroke="#7B9EB7" stroke-width="1.5"/>
+    <rect x="135" y="67" width="86" height="51" rx="7" fill="#1C324A" stroke="#76A8FF" stroke-opacity=".6"/>
+    <text x="178" y="98" text-anchor="middle" fill="#BFD5FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">API</text>
+    <path d="M221 92H243M239 88L243 92L239 96" stroke="#7B9EB7" stroke-width="1.5"/>
+    <rect x="244" y="67" width="80" height="51" rx="7" fill="#263347" stroke="#9FADCF" stroke-opacity=".6"/>
+    <text x="284" y="98" text-anchor="middle" fill="#D2DDF4" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">DATA</text>
+    <path d="M27 152H323" stroke="#344D60"/>
+    <text x="27" y="184" fill="#91AEBF" font-family="Arial, Helvetica, sans-serif" font-size="12">E-COMMERCE</text>
+    <text x="27" y="205" fill="#91AEBF" font-family="Arial, Helvetica, sans-serif" font-size="12">WORKFLOW AUTOMATION</text>
+    <path d="M294 180L305 192L323 171" stroke="#61E1CE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="52" y="313" width="1090" height="2" rx="1" fill="url(#accent)" opacity=".55"/>
+</svg>
